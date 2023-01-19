@@ -1,0 +1,4 @@
+﻿Package Manager Console =>
+To Create DbContext into the project from Database
+
+Scaffold-DbContext "Server=.;Database=UnitTestDB;User ID=sa;Password=onr132132;Connect Timeout=30;MultipleActiveResultSets=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
